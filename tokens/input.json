@@ -2,7 +2,7 @@
   "colors": {
     "red": {
       "300": {
-        "value": "#FCA5A5",
+        "value": "#ffcbcb",
         "type": "color"
       },
       "500": {
@@ -39,6 +39,12 @@
     "xl": {
       "value": 32,
       "type": "spacing"
+    }
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
     }
   }
 }
