@@ -8,9 +8,12 @@
   --colors-red-700: #b91c1c;
   --colors-black: #000000;
   --colors-white: #ffffff;
+  --colors-blue-100: #0019ff;
   --spacing-sm: 4;
   --spacing-md: 8;
   --spacing-lg: 16;
   --spacing-xl: 32;
+  --gradients-green-100: linear-gradient(45deg, #87CEEB 0%, #008000 100%);
+  --gradients-green-200: radial-gradient(yellow 30%, blue 50%);;
   --token-set-order-0: global;
 }
